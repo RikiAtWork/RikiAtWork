@@ -3,6 +3,11 @@
 ### Entornos de desarrollo
 ---
 
+## Enlace a resumen de ordenes basicas de Git
+[Órdenes Básicas](https://github.com/RikiAtWork/RikiAtWork/blob/main/git.md)
+
+---
+
 ### Negrita
 **texto en negrita**
 
